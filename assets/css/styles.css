@@ -28,6 +28,11 @@ body {
 
 }
 
+div{
+	transition-property: transform;
+	transition-duration: 3s;
+}
+
 .last {
 	padding-bottom: 2rem;
 	border-bottom: 2px solid rgb(220 200 180);
