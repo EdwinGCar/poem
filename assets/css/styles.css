@@ -9,13 +9,17 @@ html{
 body {
 	margin: 1rem;
 	background-color: black;
-	color: whitesmoke;
+	color: lightcyan;
 	font-size: 5rem;
 	overflow: hidden;
 	background-image: url(../img/snowing.gif);
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
+	font-family: "Montserrat", sans-serif;
+  	font-optical-sizing: auto;
+  	font-weight: <weight>;
+  	font-style: normal;
 }
 
 
@@ -30,7 +34,7 @@ body {
 
 div{
 	transition-property: transform;
-	transition-duration: 3s;
+	transition-duration: 7s;
 }
 
 .last {
