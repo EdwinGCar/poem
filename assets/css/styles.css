@@ -12,7 +12,7 @@ body {
 	color: whitesmoke;
 	font-size: 5rem;
 	overflow: hidden;
-	background-image: url(../img/flames.gif);
+	background-image: url(../img/snowing.gif);
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
@@ -23,8 +23,8 @@ body {
 .grid-container {
 	display: grid;
 	grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
-	gap: 2rem;
-	margin: 10% 4rem 0 4rem;
+	gap: 1.5rem;
+	margin: 5% 4rem 0 4rem;
 
 }
 
